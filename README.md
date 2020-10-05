@@ -1,5 +1,5 @@
 # WallpaperApps
-Flutter wallpaper application
+Recreate wallpaperApps using bloc pattern
 
 ## Backend API and Documentation
 
