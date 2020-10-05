@@ -1,4 +1,4 @@
-String api_key = "563492ad6f917000010000014e26f7be85a9468489bccb8d44c58b66";
+String api_key = "";
 
 String baseUrl = "https://api.pexels.com/v1/curated?per_page=";
 
